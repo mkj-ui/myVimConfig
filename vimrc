@@ -9,3 +9,4 @@ set encoding=utf8
 set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 set autoindent
 set expandtab
+set ts=4
